@@ -14,6 +14,9 @@ Detalhes da implementação:
  - Vá na classe Tabuleiro, e crie um tabuleiro arbitrário no método main, um tabuleiro é um array bidimensional de inteiros, de tal forma que o elemento (i,j) desse array representa um elemento correspondente no tabuleiro, com exceção do elemento zero que representa uma célula vazia. A partir daí, rode o exemplo, posteriormente será impresso o passo a passo de como computar uma solução final a partir do tabuleiro inicial.
  
  Exemplo de tabuleiro:
-  {{8, 1, 3}, {4, 2, 0}, {7, 6, 5}}; -> 8 1 3
-                                        4 2  
-                                        7 6 5
+  {{8, 1, 3}, {4, 2, 0}, {7, 6, 5}};
+  
+  
+  |8 1 3|
+  |4 2  |
+  |7 6 5|
